@@ -181,13 +181,13 @@ ul {
 }
 
 .fa-ul > li {
-  padding-bottom: 1em;
+  padding-bottom: .5em;
 }
 
 ol,
 ul,
 dl {
-  margin-top: 0;
+  margin-top: .5em;
   margin-bottom: 1rem;
 }
 
