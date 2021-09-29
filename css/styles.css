@@ -11251,12 +11251,8 @@ textarea.form-control-lg {
 @media print {
 
   @page {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
-  }
-  body  {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   .d-print-inline {
