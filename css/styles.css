@@ -11251,8 +11251,8 @@ textarea.form-control-lg {
 @media print {
 
   @page {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
   }
   body  {
     padding-top: 5rem;
