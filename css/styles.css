@@ -11249,6 +11249,9 @@ textarea.form-control-lg {
   }
 }
 @media print {
+
+  @page { size: auto;  margin: 0mm; }
+
   .d-print-inline {
     display: inline !important;
   }
@@ -11285,7 +11288,7 @@ textarea.form-control-lg {
     display: inline-flex !important;
   }
 
-  .d-print-none, title {
+  .d-print-none {
     display: none !important;
   }
 }
