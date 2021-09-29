@@ -11250,7 +11250,14 @@ textarea.form-control-lg {
 }
 @media print {
 
-  @page { size: auto;  margin: 0mm; }
+  @page {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  body  {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
 
   .d-print-inline {
     display: inline !important;
