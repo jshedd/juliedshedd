@@ -11285,7 +11285,7 @@ textarea.form-control-lg {
     display: inline-flex !important;
   }
 
-  .d-print-none {
+  .d-print-none, title {
     display: none !important;
   }
 }
